@@ -1,4 +1,4 @@
-## Le Jardin <br />at <br />ePalais El Mokri
+## Le Jardin El Mokri
 
 Phebe Cunningham, Sarah Johnson, Cate Pitteli, Rob Brodin
 
