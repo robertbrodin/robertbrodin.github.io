@@ -1,37 +1,13 @@
 ## Le Jardin El Mokri
 
-You can use the [editor on GitHub](https://github.com/robertbrodin/robertbrodin.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Phebe Cunningham, Sarah Johnson, Cate Pitelli, Rob Brodin
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Tourat Mdinty is a NGO located at the El Mokri Palace in Fes, Morocco, whose mission is to create interactive programs and experiences which educate the local community in the Fes Medina. In the Medina, environmental education and public access to green space is limited. Tourat Mdinty has given us access to several gardens on the El Mokri property. To improve environmental education and interactive learning in the Fes Medina, we propose a garden design plan to modify existing gardens on the El Mokri property, a garden maintenance manual to maintain the planned modifications, and a guide for possible interactive programs between the gardens and the community.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
+### Heading One
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/robertbrodin/robertbrodin.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### Heading Two
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
